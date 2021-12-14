@@ -1,0 +1,2 @@
+# Tasnim.uz
+These are the codes of tasnim.uz. This site is made for Tasnim Technology Academy
